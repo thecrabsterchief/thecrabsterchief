@@ -1,9 +1,11 @@
 <h1 align="center">Don't pwn me, I'm just a 🦀</h1>
 
-## TL;DR
+<h2>TL;DR</h2>
 
-- Playing CTF for **[@The Council of Sheep](https://ctftime.org/team/221828)** ⚔️ **[@Wanna.W1n](https://ctftime.org/team/138431)**
-- Studying Information Security at **[@UIT](https://en.uit.edu.vn/)**
+<ul>
+    <li>Playing CTF for <strong><a href="https://ctftime.org/team/221828">@The Council of Sheep</a></strong> ⚔️ <strong><a href="https://ctftime.org/team/138431">@Wanna.W1n</a></strong></li>
+    <li>Studying Information Security at <strong><a href="https://en.uit.edu.vn/">@UIT</a></strong></li>
+</ul>
 
 <div align="center">
     <table>
@@ -18,11 +20,13 @@
     </table>
 </div>
 
-## Pinned Repositories
+<h2>Pinned Repositories</h2>
 
 <div align="center">
     <table>
         <tr>
+            <th style="text-align:center;"></th>
+            <th style="text-align:center;"></th>
         </tr>
         <tr>
             <td><a href="https://github.com/thecrabsterchief/Federated-Learning-meets-Homomorphic-Encryption"><img src="https://github-readme-stats.vercel.app/api/pin/?username=thecrabsterchief&repo=Federated-Learning-meets-Homomorphic-Encryption&show_owner=true&theme=tokyonight" alt="Federated-Learning-meets-Homomorphic-Encryption"></a></td>
