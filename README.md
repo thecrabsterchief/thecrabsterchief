@@ -1,4 +1,4 @@
-<h1 align="center">Don't pwn me, I'm just a 🦀</h1>
+<h1 align="center">Stop pwning me, I'm just a 🦀</h1>
 
 <h2>TL;DR</h2>
 
